@@ -1,0 +1,12 @@
+{
+  "name": "aardwolf-player",
+  "version": "1.0.0",
+  "description": "DeepSeek plays Aardwolf MUD autonomously",
+  "main": "player.js",
+  "scripts": {
+    "start": "node player.js"
+  },
+  "dependencies": {
+    "openai": "^4.20.0"
+  }
+}
